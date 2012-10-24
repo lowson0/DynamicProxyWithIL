@@ -1,0 +1,16 @@
+E:\IDF\Project\JavaScriptsyAsyn\DynamicProxy\bin\Debug\DynamicProxy.exe
+E:\IDF\Project\JavaScriptsyAsyn\DynamicProxy\bin\Debug\DynamicProxy.pdb
+E:\IDF\Project\JavaScriptsyAsyn\DynamicProxy\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\IDF\Project\JavaScriptsyAsyn\DynamicProxy\obj\x86\Debug\DynamicProxy.exe
+E:\IDF\Project\JavaScriptsyAsyn\DynamicProxy\obj\x86\Debug\DynamicProxy.pdb
+E:\Current Working\Dot Net\JavaScriptsyAsyn\DynamicProxy\bin\Debug\DynamicProxy.exe
+E:\Current Working\Dot Net\JavaScriptsyAsyn\DynamicProxy\bin\Debug\DynamicProxy.pdb
+E:\Current Working\Dot Net\JavaScriptsyAsyn\DynamicProxy\obj\x86\Debug\DynamicProxy.exe
+E:\Current Working\Dot Net\JavaScriptsyAsyn\DynamicProxy\obj\x86\Debug\DynamicProxy.pdb
+E:\Current Working\Dot Net\JavaScriptsyAsyn\DynamicProxy\obj\x86\Debug\DynamicProxy.csprojResolveAssemblyReference.cache
+E:\Current Working\Dot Net\MyCode\Subject\DynamicProxy\obj\x86\Debug\DynamicProxy.exe
+E:\Current Working\Dot Net\MyCode\Subject\DynamicProxy\obj\x86\Debug\DynamicProxy.pdb
+E:\Current Working\Dot Net\MyCode\Subject\DynamicProxy\bin\Debug\DynamicProxy.exe
+E:\Current Working\Dot Net\MyCode\Subject\DynamicProxy\bin\Debug\DynamicProxy.pdb
+E:\Current Working\Dot Net\MyCode\Subject\DynamicProxy\obj\x86\Debug\DynamicProxy.csprojResolveAssemblyReference.cache
+E:\Current Working\Dot Net\MyCode\Subject\DynamicProxy\bin\Debug\DynamicProxy.exe.config
